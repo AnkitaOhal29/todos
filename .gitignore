@@ -1,5 +1,5 @@
 # Ignore Django migrations
-# **/migrations/
+**/migrations/
 db.sqlite3
 todo.db
 # Byte-compiled / optimized / DLL files
